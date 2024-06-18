@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Dinesh Venkata Sai Teja</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <h3 align="center">Aspiring and dedicated Computer Science student with hands-on experience in full-stack development, database integration, and user interface design. Seeking a web developer or software engineer role to apply my comprehensive skills, contribute to innovative solutions, and develop professionally within a forward-thinking company</h3>
 
