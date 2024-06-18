@@ -8,11 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 All of my projects are available at [https://main--dinesh-ponnuru.netlify.app/](https://main--dinesh-ponnuru.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://main--dinesh-ponnuru.netlify.app/)
 
 - 📫 How to reach me **pdinesh122003@gmail.com**
 
-- 📄 Know about my experiences [https://main--dinesh-ponnuru.netlify.app/assets/resume-Da7hedA5.pdf](https://main--dinesh-ponnuru.netlify.app/assets/resume-Da7hedA5.pdf)
+- 📄 Know about my experiences [Resume](https://main--dinesh-ponnuru.netlify.app/assets/resume-Da7hedA5.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
