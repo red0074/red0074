@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://main--dinesh-ponnuru.netlify.app/)
 
-- 📫 How to reach me **pdinesh122003@gmail.com**
+- 📫 How to reach me **dineshvenkatasaiteja.ponnuru@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
